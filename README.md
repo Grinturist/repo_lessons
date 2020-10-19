@@ -1,3 +1,1 @@
-# repo_lessons
-
-ubdate from git kraken
+new readme content
